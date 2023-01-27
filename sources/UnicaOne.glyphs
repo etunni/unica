@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
 customParameters = (
 {
@@ -11281,10 +11281,6 @@ layerId = UUID0;
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (75,0);
-ref = dotaccentcomb;
 }
 );
 width = 270;
@@ -11624,10 +11620,6 @@ layerId = UUID0;
 shapes = (
 {
 ref = jdotless;
-},
-{
-pos = (195,0);
-ref = dotaccentcomb;
 }
 );
 width = 380;
