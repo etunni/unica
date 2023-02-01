@@ -1,6 +1,10 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"ıiíĭîȉï/idotaccent ìỉȋīįĩ
+ȷjĵ"
+);
 customParameters = (
 {
 name = fsType;
@@ -11577,10 +11581,6 @@ layerId = UUID0;
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (75,0);
-ref = dotaccentcomb;
 },
 {
 pos = (-10,0);
